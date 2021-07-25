@@ -9,9 +9,15 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.iws
+*.workspace.xml
+*.tasks.xml
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+
+# JetBrains IDE
+.idea/
 
 # Mono auto generated files
 mono_crash.*
